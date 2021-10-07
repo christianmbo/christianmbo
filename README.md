@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @christianmbo
-- 👀 I’m interested in Networking , specially automation and scripts
+- 👀 I’m interested in Networking , especially automation and scripts
 - 🌱 I’m currently working on my CCNP before moving to my DevNet
 - 💞️ I’m looking to collaborate any netwrkking related topics , projects and labs that could help improve my skills 
 - 📫 How to reach me thru linkdin (chrstian-mbo) or you can hit me on here
